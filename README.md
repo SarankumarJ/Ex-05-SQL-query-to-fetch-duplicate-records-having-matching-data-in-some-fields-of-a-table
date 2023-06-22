@@ -1,4 +1,4 @@
-## Ex-18 SQL query to fetch duplicate records having matching data in some fields of a table
+## Ex-05 SQL query to fetch duplicate records having matching data in some fields of a table
 ## AIM:-
 To write a sql query to fetch duplicate records having matching data in some fields of a table.
 
