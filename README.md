@@ -1,4 +1,4 @@
-# Ex-05-SQL-query-to-fetch-duplicate-records-having-matching-data-in-some-fields-of-a-table
+## Ex-18 SQL query to fetch duplicate records having matching data in some fields of a table
 ## AIM:-
 To write a sql query to fetch duplicate records having matching data in some fields of a table.
 
@@ -16,6 +16,8 @@ Insert Value to the tables.
 Select records having matching data in some fields.
 
 ## PROGRAM:-
+#### Developed By : Sarankumar J
+#### Register Number : 212221230087
 ```sql
 CREATE DATABASE ORG;
 SHOW DATABASES;
